@@ -155,12 +155,12 @@ Enrollment table resolves the many-to-many relationship between Student and Cour
 
 ## 📁 Project Structure
 
-College-Database-DBMS/
-│
-├── DB-Lab-2.pdf
-├── ER_Diagram.png
-├── college_database_oracle.sql
-└── README.md
+- College-Database-DBMS/
+
+- DB-Lab-2.pdf
+- ER_Diagram.png
+- college_database_oracle.sql
+- README.md
 
 
 ---
